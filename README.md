@@ -1,4 +1,4 @@
-# Face_Detection:
+# Face_Detection
 
 ## Single Scale Face Detection:
 This project implements a multi-scale face detector. An SVM is trained to categorize 36 x 36 pixel images as “face” or “not face”, using Histogram of Oriented Gradients (HOG) features.
