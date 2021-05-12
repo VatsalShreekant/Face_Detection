@@ -12,7 +12,9 @@ The face detection is performed based on the following steps:
 6. Gather the best accuracy on the validation set.
 
 Classifier performance on training images:
+<p align="center">
 <kbd><img src="https://user-images.githubusercontent.com/32462270/117911775-58de1300-b2ac-11eb-8edc-3083df64591e.PNG"></kbd>
+</p>
 
 ## Multi Scale Face Detection
 
