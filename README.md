@@ -14,6 +14,8 @@ The face detection is performed based on the following steps:
 Classifier performance on training images:
 <p align="center">
 <kbd>![Capture](https://user-images.githubusercontent.com/32462270/117911775-58de1300-b2ac-11eb-8edc-3083df64591e.PNG)</kbd>
+</p>
+
 
 ## Multi Scale Face Detection
 
@@ -26,6 +28,9 @@ The multi-scale face detection is performed based on the following steps:
 Multi-scale face detection using bounded boxes:
 <p align="center">
 <kbd><img width="423" alt="Capture" src="https://user-images.githubusercontent.com/32462270/117912500-a6a74b00-b2ad-11eb-994c-665b695a8d2f.PNG"></kbd>
-<kbd><img width="297" alt="Capture" src="https://user-images.githubusercontent.com/32462270/117912619-cccceb00-b2ad-11eb-987f-7fb1256159ab.PNG"></kbd>
-<kbd>![170255819_4521368387879551_2972130169533207361_n](https://user-images.githubusercontent.com/32462270/117912405-7a8bca00-b2ad-11eb-8e6e-43a608b5d598.jpg)</kbd>
 </p>
+<p align="center">
+<kbd><img width="297" alt="Capture" src="https://user-images.githubusercontent.com/32462270/117912619-cccceb00-b2ad-11eb-987f-7fb1256159ab.PNG"></kbd>
+</p>
+
+<kbd>![170255819_4521368387879551_2972130169533207361_n](https://user-images.githubusercontent.com/32462270/117912405-7a8bca00-b2ad-11eb-8e6e-43a608b5d598.jpg)</kbd>
